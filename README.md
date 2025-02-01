@@ -11,3 +11,9 @@ Windows Default Assistant具有高密度的指令。若发生错误，则可能�
 1.Windows Default Assistant不应用于个人电脑，只适合用于诸如学校机房等**公用电脑**且具有**恢复**功能的电脑。
 
 2.Windows Default Assistant应放置在桌面且**桌面和公用桌面**无任何重要的个人文件。否则它们都会被删除。
+## Remote Collection and Analysis设置与隐私
+RCaA(远程收集与分析)是内置于Windows Default Assistant 1.1.0 Beta及以上的数据反馈程序。这个内置程序可以发送运行日志，崩溃报告，系统信息给我们，以便我们改进软件。
+
+当RCaA启用时，软件顶部会显示一个箭头图标。你也可以将它关闭。RCaA数据通过电子邮件发送，且其的数据不会与你个人相关联。
+## 许可证
+本程序基于GPLv3，请在获取源代码后遵循此许可证。
