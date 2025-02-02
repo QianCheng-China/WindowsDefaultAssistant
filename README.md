@@ -19,7 +19,8 @@ Windows Default Assistant内置了一些组件。以下是关于这些组件的�
 Remote Collection and Analysis(远程收集与分析，RCaA)是内置于Windows Default Assistant 1.1.0 Beta及以上的数据反馈程序。这个内置程序可以发送运行日志，崩溃报告，系统信息给我们，以便我们改进软件。当RCaA启用时，软件顶部会显示一个箭头图标。你也可以将它关闭。RCaA数据通过电子邮件发送，且其的数据不会与你个人相关联。
 
 **注意：为了保护我们的用户，我们在给出的源代码中删去了发送电子邮件需要给出的信息，以防电子邮件被截获。若你重新编译源代码，则RCaA功能将不再可用。**
-### Version Check and Update
+### Version Checking and Updating
 Version Checking and Updating(版本检查和更新，VCaU)是内置于Windows Default Assistant 1.0.2及以上的版本更新程序。这个内置程序用于检查是否有新版本并下载新版本。
+要检查软件更新，请前往：关于>检查软件更新。若电脑有Internet连接，则Windows Default Assistant将自动检查软件更新。
 ## 许可证
 本程序基于GPLv3，请在获取源代码后遵循此许可证。
