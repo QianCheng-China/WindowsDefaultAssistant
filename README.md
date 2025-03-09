@@ -1,4 +1,7 @@
 # Windows Default Assistant
+## 更新和版本提示
+Windows Default Assistant的最新版本为1.1.3。若此版本没有重大Bug或可用性问题，我们将不再继续更新Windows Default Assistant。
+对于1.1.3 Beta(此版本并未上传至GitHub)以下版本，其上搭载的Remote Collection and Analysis功能将于2025年3月31日停止支持。
 ## 提要
 如果你是一个信息学竞赛生，当你来到机房打开电脑，看到桌面上一堆的无用软件，不美观的桌面壁纸，特定文件类型的打开方式需要重新设置，更何况没有编码软件和评测软件，你会不会觉得有些烦躁？这些东西都需要你进行配置，而且还不能在短时间内完成。
 
